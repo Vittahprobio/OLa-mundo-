@@ -1,2 +1,3 @@
-# OLa mundo!
+# OLa, mundo!...
  Primeiro repositório - do curso git - github
+Repositório criado no dia 02/06/2024
